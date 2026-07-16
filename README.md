@@ -39,3 +39,8 @@
 Phone no: +923096333637
 LinkedIn: linkedin.com/in/iqra-nadeem-8b8a49333
 Email: github.com/iqra-sudo
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqra-sudo&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqra-sudo&layout=compact)
